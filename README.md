@@ -1,3 +1,5 @@
+## A simple Neural Network With One Neuron
+
 # a-simple-neural-network
 Neural Network may seems difficult to other programmers who thinks it's full of maths. So here, we are going to develop a simple neural network in python that everyone can understand. Here , am not going to explain more about neural network like weights, cost, back-propogation, batch gradient descent etc
 
@@ -21,4 +23,13 @@ Neural Network may seems difficult to other programmers who thinks it's full of 
    we have predicted values from training samples and we have actual targets . compare the predicted value with actual targets and subtract it.
    -> predicted - target, this will give erros
   # cost ?
-    cost: sum of errors divided by targets 
+   there are four types of cost function. they are :-
+   1: mean absolute error
+   2: mean sqaured error
+   3: binary cross entropy
+   4: categorical cross entropy
+   
+   most used cost function used in linear regression is mean sqaured error
+    cost: sum of errors divided by length of targets
+    
+  
