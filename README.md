@@ -1,7 +1,7 @@
 ## A simple Neural Network With One Neuron
 
 # a-simple-neural-network
-Neural Network may seems difficult to other programmers who thinks it's full of maths. So here, we are going to develop a simple neural network in python that everyone can understand. Here , am not going to explain more about neural network like weights, cost, back-propogation, batch gradient descent etc
+Here, we are going to develope a simple neural network in python that everyone can understand. Am not going to explain more about neural network like weights, cost, back-propogation, batch gradient descent etc
 
 # Train the network
   First of all, we need to train our neural network inorder to undertand our data . Based on training the data into neural network , it will able to predict the values     based on inputs. 
