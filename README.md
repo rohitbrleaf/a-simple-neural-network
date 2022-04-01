@@ -29,7 +29,7 @@ Here, we are going to develope a simple neural network in python that everyone c
    3: binary cross entropy
    4: categorical cross entropy
    
-   most used cost function used in linear regression is mean sqaured error
+   Most used cost function in linear regression is mean sqaured error
     cost: sum of errors divided by length of targets
     
   # Bias ?
