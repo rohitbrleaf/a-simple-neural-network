@@ -32,4 +32,6 @@ Here, we are going to develope a simple neural network in python that everyone c
    most used cost function used in linear regression is mean sqaured error
     cost: sum of errors divided by length of targets
     
+  # Bias ?
+  bias is what we use for controlling y-intercept. think like it as a playstation controller for controlling y-intercept
   
